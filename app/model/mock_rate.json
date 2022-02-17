@@ -1,0 +1,10 @@
+{
+  "rates": [
+    {
+      "days": "mon,tues,thurs",
+      "times": "0900-2100",
+      "tz": "America/Chicago",
+      "price": 1500
+    }
+  ]
+}
